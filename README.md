@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-CSB / AI recruiting platform / 60k+ developers / mid six figures ARR
-Promethium / digital asset inheritance wallet / backed by 1517 Fund
-Kurt's Steam Store / automated esports marketplace / $5 → $30k+ profit
+## founder
+- CSB / AI recruiting platform / 60k+ developers / mid six figures ARR
+- Promethium / digital asset inheritance wallet / backed by 1517 Fund
+- Kurt's Steam Store / automated esports marketplace / $5 → $30k+ profit
 
 ## highlights
 
