@@ -8,7 +8,7 @@
 ## highlights
 
 - Princeton + Caltech hackathon winner
-- Snapchat / Messaging Platform Engineering
-- undergrad in CS, Mathematics & Electrical Engineering
-- CMU AI & Systems dropout
+- Snapchat / Messaging Platform
+- undergrad in CS, Math & EE
+- CMU AI & Systems grad school dropout
 - 2M+ views across Facebook & YouTube
