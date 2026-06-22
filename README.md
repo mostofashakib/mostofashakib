@@ -3,7 +3,7 @@
 ## founder
 - CSB / AI recruiting platform / 60k+ developers
 - Promethium / digital asset inheritance wallet / backed by US Government's SBIR program and 1517 Fund
-- Kurt's Steam Store / automated esports marketplace / $5 → $30k+ profit during highschool from bangladesh
+- Kurt's Steam Store / one of south asian's largest esports marketplace during high school
 
 ## highlights
 - Princeton + Caltech hackathon winner
