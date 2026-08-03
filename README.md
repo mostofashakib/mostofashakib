@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-### work
-- forge / programmable worlds for training AI agents
-- csb / AI recruitment -> 60k+ developers
+### highlights
 - snapchat / led username changes for ~1B users
-
-### others
+- csb / AI recruitment -> 60k+ developers
 - cmu scs / dropout
 - rice, princeton, caltech / hackathon winner
 - bangladesh / national highest scorer in mathematics
+
+### socials
+- website: https://www.mostofashakib.com/
+- linkedIn: https://www.linkedin.com/in/mostofashakib/
