@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ### highlights
-- snapchat / led username changes for ~1B users
-- cmu scs / dropout
-- rice, princeton, caltech / hackathon winner
-- bangladesh national highest scorer in mathematics
+- Stanford AI Research
+- Snapchat Messaging / Software Engineer
+- CMU SCS / Dropout
+- Rice, Princeton, Caltech / Hackathon Winner
+- Bangladesh National Highest Scorer in Mathematics
 
 ### socials
-- website: https://www.mostofashakib.com/
-- linkedIn: https://www.linkedin.com/in/mostofashakib/
+- Website: https://www.mostofashakib.com/
+- LinkedIn: https://www.linkedin.com/in/mostofashakib/
