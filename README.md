@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### highlights
-- Stanford AI Research
 - Snapchat Messaging / Software Engineer
+- Stanford AI Research
 - CMU CS / Dropout
 - Princeton, Rice, Caltech / Hackathon Winner
 - Bangladesh National Highest Scorer in Mathematics
