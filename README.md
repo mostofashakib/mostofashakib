@@ -2,6 +2,7 @@
 
 ### highlights
 - Snapchat Messaging / Software Engineer
+- UPenn Engineering / CS (Artificial Intelligence)
 - Princeton, Caltech / Hackathon Winner
 - Bangladesh National Highest Scorer in Mathematics
 
