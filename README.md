@@ -12,5 +12,4 @@
 - [VidQ](https://github.com/mostofashakib/VidQ): Finds and downloads any video with AI agents.
 
 ### Socials
-- Website: https://www.mostofashakib.com/
-- LinkedIn: https://www.linkedin.com/in/mostofashakib/
+- [Website](https://www.mostofashakib.com/), [LinkedIn](https://www.linkedin.com/in/mostofashakib/)
