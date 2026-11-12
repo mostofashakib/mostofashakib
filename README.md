@@ -2,8 +2,9 @@
 
 ### highlights
 - Snapchat Messaging / Software Engineer
-- Princeton, Caltech / Hackathon Winner
+- AI&ML / University of Pennsylvania
 - Bangladesh National Highest Scorer in Mathematics
+- Princeton & Caltech / Hackathon Winner
 
 ### socials
 - Website: https://www.mostofashakib.com/
